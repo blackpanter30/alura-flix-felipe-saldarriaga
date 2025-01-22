@@ -1,0 +1,116 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "¿Qué significa pensar como programador?",
+      "categoria": "Frontend",
+      "imgURL": "https://img.youtube.com/vi/ov7vA5HFe6w&t=2s/hqdefault.jpg",
+      "videoURL": "https://www.youtube.com/embed/ov7vA5HFe6w",
+      "descripcion": "¿Cuáles son las principales características de un programador? ¿Qué habilidades y competencias debe tener alguien que quiere seguir esa carrera? En este video Christian Velasco nos habla de las principales características de un Programador."
+    },
+    {
+      "id": "2",
+      "titulo": "¿Por qué utilizar React con Typescript?",
+      "categoria": "Frontend",
+      "imgURL": "https://img.youtube.com/vi/RLZ7-ZfkwOE/hqdefault.jpg",
+      "videoURL": "https://www.youtube.com/embed/RLZ7-ZfkwOE",
+      "descripcion": "¿React con JavaScript o React con TypeScript? En este video, te mostramos las diferencias clave entre usar React con JavaScript y hacerlo con TypeScript. Exploramos las ventajas de cada enfoque, cómo impactan en la productividad y la calidad del código, y cuál puede ser la mejor opción para tu proyecto. ¡Descubre cuál es ideal para ti!"
+    },
+    {
+      "id": "3",
+      "titulo": "Motivación y Buenos Hábitos: Claves para Estudiar con Éxito",
+      "categoria": "Innovación y Gestión",
+      "imgURL": "https://img.youtube.com/vi/TNJbxPaB6cA/hqdefault.jpg",
+      "videoURL": "https://www.youtube.com/embed/TNJbxPaB6cA",
+      "descripcion": "¿Te falta motivación para estudiar? En este video, te compartimos consejos prácticos para mantenerte motivado y cómo los buenos hábitos pueden transformar tu forma de aprender. Descubre estrategias para mantener el enfoque, mejorar tu productividad y construir una rutina que potencie tu rendimiento académico. ¡Empieza a estudiar con más energía y logra tus metas!"
+    },
+    {
+      "id": "4",
+      "titulo": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti!",
+      "categoria": "Backend",
+      "imgURL": "https://img.youtube.com/vi/QjOWz9avkg8&list=PLNKOkLkhi1KcSUO-HCNQu0gSbE_eaUUsl/hqdefault.jpg",
+      "videoURL": "https://www.youtube.com/embed/QjOWz9avkg8",
+      "descripcion": "¿Te falta motivación para estudiar? En este video, te compartimos consejos prácticos para mantenerte motivado y cómo los buenos hábitos pueden transformar tu forma de aprender. Descubre estrategias para mantener el enfoque, mejorar tu productividad y construir una rutina que potencie tu rendimiento académico. ¡Empieza a estudiar con más energía y logra tus metas!"
+    },
+    {
+      "id": "5",
+      "titulo": "¿Qué es SQL y NoSQL?",
+      "categoria": "Backend",
+      "imgURL": "https://img.youtube.com/vi/cLLKVd5CNLc&list=PLNKOkLkhi1Ke9j-o8dn6pdG38VPhAoJ1Y/hqdefault.jpg",
+      "videoURL": "https://www.youtube.com/embed/cLLKVd5CNLc",
+      "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo."
+    },
+    {
+      "id": "aae4dbff-8b3d-475a-8629-0df7fa074b05",
+      "titulo": "Creando una base de datos MySQL para tu proyecto Java con Spring",
+      "categoria": "Backend",
+      "imgURL": "https://img.youtube.com/vi/59TU5iAd174/hqdefault.jpg",
+      "videoURL": "https://www.youtube.com/embed/59TU5iAd174",
+      "descripcion": "¿Tienes curiosidad por empezar proyectos back-end con base de datos MySQL?? ¡Este video puede ayudarte! En este video hablamos de dos maneras, entre varias otras formas, para crear una base de datos local utilizando MySQL. ¡MySQL es una de las bases de datos más utilizadas en desarrollo back-end en el mundo!"
+    },
+    {
+      "id": "18087b38-bd48-4315-a458-d9e5a1f2b6e7",
+      "titulo": "Equipo Front End",
+      "categoria": "Frontend",
+      "imgURL": "https://img.youtube.com/vi/rpvrLaBQwgg/hqdefault.jpg",
+      "videoURL": "https://www.youtube.com/embed/rpvrLaBQwgg",
+      "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología? En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End."
+    },
+    {
+      "id": "d54b1b16-2312-4c12-ae8f-4b4dd954fb3c",
+      "titulo": "Café Punto Tech #16 - Gestión de Proyectos en Tecnología",
+      "categoria": "Innovación y Gestión",
+      "imgURL": "https://img.youtube.com/vi/u3TDlT87qAw/hqdefault.jpg",
+      "videoURL": "https://www.youtube.com/embed/u3TDlT87qAw",
+      "descripcion": "En este episodio, nos adentramos en el mundo de la gestión de proyectos en el ámbito tecnológico con nuestro invitado especial, John Valera, Project Manager en Microsoft y experto en Project Management. Junto a nuestros co-hosts, Gabriela Aguiar y Christian Velasco, exploramos temas clave como la diferencia entre gestión de proyectos tradicional y ágil, la importancia de las habilidades técnicas y blandas en un Project Manager, y cómo la inteligencia artificial está revolucionando esta disciplina. Además, John nos comparte su inspiradora trayectoria y valiosos consejos para quienes desean iniciar una carrera en la gestión de proyectos tecnológicos. ¡No te pierdas esta charla llena de conocimientos y anécdotas que te ayudarán a entender mejor el rol crucial de la gestión de proyectos en el éxito de los productos tecnológicos!"
+    },
+    {
+      "id": "d4b2b753-6574-4f98-ba2e-11578734c9ce",
+      "titulo": "Como desarrollar tu Marca Personal",
+      "categoria": "Innovación y Gestión",
+      "imgURL": "https://img.youtube.com/vi/LAK-RduBJUs/hqdefault.jpg",
+      "videoURL": "https://www.youtube.com/embed/LAK-RduBJUs",
+      "descripcion": "En este video vamos a ayudarte a entender qué es y cuál es la importancia de tener una Marca Personal bien desarrollada."
+    },
+    {
+      "id": "e018f6de-308c-430b-aa7f-7b8e26bc2748",
+      "titulo": "¿Cuáles son las soft y hard skills necesarias para trabajar con tecnología? #17",
+      "categoria": "Innovación y Gestión",
+      "imgURL": "https://img.youtube.com/vi/7lnmW8fB0nM/hqdefault.jpg",
+      "videoURL": "https://www.youtube.com/embed/7lnmW8fB0nM",
+      "descripcion": "¿Quieres saber cuáles son las Soft Skills más buscadas en el área de tecnología? En este video nuestras invitadas comentan sobre las Soft Skills y Hard Skills necesárias para trabajar con tencología."
+    },
+    {
+      "id": "17081ae3-2d17-44f4-9f90-60dd14ed68f1",
+      "titulo": "Cómo ser más productivo",
+      "categoria": "Innovación y Gestión",
+      "imgURL": "https://img.youtube.com/vi/TF_Rde1kbw8/hqdefault.jpg",
+      "videoURL": "https://www.youtube.com/embed/TF_Rde1kbw8",
+      "descripcion": "En este video, Gabriela Aguiar, nos explicará sobre la productividad y exploraremos técnicas probadas y estrategias innovadoras para impulsar tu eficiencia. Desde la gestión del tiempo hasta la optimización del espacio de trabajo, cada aspecto crucial de la productividad será desglosado con claridad y precisión. Descubrirás cómo identificar tus prioridades, eliminar distracciones y mantener un enfoque agudo en tus metas a largo plazo."
+    },
+    {
+      "id": "9ddafeca-41b8-4f35-b2a3-704c44f7d7ea",
+      "titulo": "¿Cómo un desarrollador Front End utiliza el Figma?",
+      "categoria": "Frontend",
+      "imgURL": "https://img.youtube.com/vi/UuAX5azcvDQ/hqdefault.jpg",
+      "videoURL": "https://www.youtube.com/embed/UuAX5azcvDQ",
+      "descripcion": "En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta."
+    },
+    {
+      "id": "52945b9b-1886-481d-affe-d408b347901f",
+      "titulo": "Cómo volverse un desarrollador Front End !!",
+      "categoria": "Frontend",
+      "imgURL": "https://img.youtube.com/vi/-Ou5c3A225k/hqdefault.jpg",
+      "videoURL": "https://www.youtube.com/embed/-Ou5c3A225k",
+      "descripcion": "Terminé mis estudios, ¿y ahora? ¿Cómo puedo entrar al mercado laboral? ¿Cómo encontrar un trabajo front end? En este video nuestra instructor Barbara nos da algunos consejos para las personas que desean entrar en el área del desarrollo web."
+    },
+    {
+      "id": "8d6a80f5-eb07-4450-b56c-082c2cc59e8f",
+      "titulo": "Desmistificando el Back-End",
+      "categoria": "Backend",
+      "imgURL": "https://img.youtube.com/vi/LLt7FreeHfQ/hqdefault.jpg",
+      "videoURL": "https://www.youtube.com/embed/LLt7FreeHfQ",
+      "descripcion": "¿Qué es backend?  ¿Por qué debería comenzar mi carrera con backend? \n¿Cuáles son las skills necesarias para ser un buen desarrollador backend? \n¿Qué hace un desarrollador backend en su dia a dia laboral? \nEsas y otras preguntas serán respondidas en este evento, en el que vamos a hablar con Maria Fernanda Ferreira y Diego Arguelles dos programadores Back End e Instructores de Alura."
+    }
+  ]
+}
